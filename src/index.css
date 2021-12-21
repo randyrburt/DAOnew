@@ -5,11 +5,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #7700ee;
-  background-image: url("https://image.shutterstock.com/image-vector/loopring-lrc-token-symbol-defi-260nw-1835909389.jpg");
+  background-image: url("https://cdn.decrypt.co/resize/1400/wp-content/uploads/2021/02/loopring-gID_1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
-  text-shadow: 4px 4px black;
+  //text-shadow: 4px 4px black;
   overflow-x: hidden;
 }
 #root {
@@ -142,4 +142,11 @@ button:focus {
 button:disabled {
   opacity: 0.8;
   pointer-events: none;
+}
+
+p {
+  color: yellow;
+  font-weight: bold;
+  font-size: 2rem;
+  text-shadow: 4px 4px black;
 }
