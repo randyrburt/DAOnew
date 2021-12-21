@@ -5,7 +5,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #7700ee;
-  color: #fff;
+  background-image: url("https://image.shutterstock.com/image-vector/loopring-lrc-token-symbol-defi-260nw-1835909389.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-shadow: 4px 4px black;
   overflow-x: hidden;
 }
 #root {
